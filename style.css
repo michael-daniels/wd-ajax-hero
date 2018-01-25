@@ -1,0 +1,61 @@
+nav {
+  background-color: red;
+}
+.btn {
+  background-color: red;
+}
+.btn:focus {
+  background-color: red;
+}
+.btn:hover {
+  height:40px;
+  background-color:red;
+}
+.row-nav {
+  text-align: center;
+}
+.logo {
+  font-size: 24px;
+}
+input {
+  text-align: center;
+  display:inline-block;
+}
+.wrapper {
+  background-color: #f2f2f2;
+  min-height:200px;
+  padding: 20px 30px;
+}
+.main-content {
+  text-align: center;
+}
+.main-trailer {
+  background-color:;
+}
+.main-info {
+  background-color:;
+  font-size:24px;
+}
+.the-content {
+  background-color:;
+  min-height:200px;
+}
+.content-item {
+  text-align: center;
+}
+.content-image-search {
+  max-height:400px;
+  margin:20px;
+  box-shadow: 5px 5px 20px gray;
+  border-radius:5px;
+}
+.content-image-search:hover {
+  margin:20px;
+  box-shadow: 5px 5px 20px black;
+  border-radius:5px;
+}
+.content-image-main {
+  margin:20px;
+  box-shadow: 5px 5px 20px gray;
+  border-radius:5px;
+}
